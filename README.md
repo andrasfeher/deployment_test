@@ -8,4 +8,6 @@ FEATURE-5
 
 FEATURE-6
 
+FEATURE-7 for version 2.0
+
 FEATURE-8
